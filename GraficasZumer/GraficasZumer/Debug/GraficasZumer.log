@@ -1,0 +1,4 @@
+﻿  AYEYI.cpp
+C:\Users\PC\source\repos\GraficasZumer\GraficasZumer\AYEYI.cpp(139,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\PC\source\repos\GraficasZumer\GraficasZumer\AYEYI.cpp(195,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  GraficasZumer.vcxproj -> C:\Users\PC\source\repos\GraficasZumer\Debug\GraficasZumer.exe
