@@ -1,0 +1,16 @@
+﻿main.obj : error LNK2019: símbolo externo glfwInit sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwTerminate sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwWindowHint sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwCreateWindow sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwWindowShouldClose sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwPollEvents sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwGetKey sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo glfwGetTime sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwMakeContextCurrent sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwSwapBuffers sin resolver al que se hace referencia en la función main
+main.obj : error LNK2019: símbolo externo glfwGetProcAddress sin resolver al que se hace referencia en la función main
+c:\gl\lib\opengl32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+c:\gl\lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\jossr\source\repos\OGL_RUBIK_CUBE\x64\Debug\OGL_RUBIK_CUBE.exe : fatal error LNK1120: 13 externos sin resolver
